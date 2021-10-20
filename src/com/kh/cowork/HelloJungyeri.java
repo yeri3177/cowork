@@ -8,4 +8,8 @@ public class HelloJungyeri {
 	public void hello() {
 		System.out.println("안녕하세요~ HelloJungyeri 클래스의 hello메소드 실행! ");
 	}
+	
+	public void bye() {
+		System.out.println("2:33 추가함");
+	}
 }
