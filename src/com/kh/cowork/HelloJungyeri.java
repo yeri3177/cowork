@@ -12,4 +12,9 @@ public class HelloJungyeri {
 	public void bye() {
 		System.out.println("2:33 추가함");
 	}
+	
+	// 추가 3:12
+	public static void main(String[] args) {
+		System.out.println("-------추가-------------");
+	}
 }
